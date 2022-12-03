@@ -1,5 +1,5 @@
 
-**Deployed Project -**
+**Deployed App -**
  http://filtering-animation-two.vercel.app/
 
 ## Filtering-Animation
